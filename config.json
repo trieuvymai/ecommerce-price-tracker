@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "url": "https://www.amazon.com/dp/B0949M5M7X",
+      "site": "Amazon",
+      "name": "Sample Product",
+      "base_price": 99.99,
+      "threshold": 95.00
+    }
+  ]
+}
